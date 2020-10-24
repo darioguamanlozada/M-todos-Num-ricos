@@ -1,2 +1,2 @@
-# M-todos-Num-ricos
+# Metodos-Numericos
 Ingeniería Química - ESPOCH
